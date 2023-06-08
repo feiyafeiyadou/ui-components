@@ -1,1 +1,1 @@
-# -p-ui-components
+# p-ui-components
